@@ -1,6 +1,6 @@
 # Meridian
 
-A career intelligence platform for graduate students, deployed at NYU's Graduate School of Arts and Science. Live at [gsasmeridian.com](https://gsasmeridian.com).
+A career intelligence platform for graduate students. Live at [gsasmeridian.com](https://gsasmeridian.com).
 
 *This repository documents Meridian's architecture and methodology. The production codebase is private due to institutional data agreements.*
 
