@@ -17,6 +17,8 @@ Meridian classifies a graduate student's career trajectory pattern, surfaces the
 
 ## Architecture
 
+![Meridian architecture](meridian_architecture.png)
+
 The system is built around three layers:
 
 1. **Classification.** A scikit-learn Pipeline using TF-IDF vectorization feeds an ensemble of XGBoost, Random Forest, Logistic Regression, SVC, and Naive Bayes classifiers with dynamic ensemble weighting at inference time.
