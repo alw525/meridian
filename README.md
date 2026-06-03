@@ -17,7 +17,7 @@ Meridian classifies a graduate student's career trajectory pattern, surfaces the
 
 ## Architecture
 
-![Meridian architecture](meridian_architecture (1).png)
+![Meridian architecture](meridian_architecture.png)
 
 The system is built around three layers:
 
