@@ -14,7 +14,6 @@ Meridian classifies a graduate student's career trajectory pattern, surfaces the
 - 30% reduction in advising cycle time
 - Trained on 75,000+ harmonized career records
 - 12% improvement in advisor satisfaction scores following deployment
-- Manuscript currently under peer review for the *Journal of Higher Education*
 
 ## Architecture
 
